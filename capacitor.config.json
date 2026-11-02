@@ -1,0 +1,10 @@
+{
+  "appId": "com.battlewarriors.admin",
+  "appName": "BW Admin",
+  "webDir": "www",
+  "server": {
+    "url": "https://rohitreddy2952-prog.github.io/bw-admin/admin.html",
+    "androidScheme": "https",
+    "allowNavigation": ["rohitreddy2952-prog.github.io"]
+  }
+}
